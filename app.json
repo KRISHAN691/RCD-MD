@@ -24,11 +24,11 @@
     "WAPRESENCE": {
       "description": "Fill the value: 'unavailable'(for nothing) | 'available'(for alwaysonline) | 'composing'(for typing) | 'recording' | 'paused' ",
       "required": false,
-      "value": "online"
+      "value": "recording"
     },
     "OWNER_NAME": {
-      "description": "Owner Name",
-      "value": "RCD",
+      "description": "owner name",
+      "value": "KRISHAN",
       "required": true
     },
 
@@ -46,7 +46,7 @@
     "BOT_NAME": {
       "description": "Bot Name",
       "required": false,
-      "value": "RCD-MD"
+      "value": "C4zper-MD"
     },
     "USER_IMAGES": {
       "description": "Image for bot",
@@ -104,7 +104,7 @@
     },
     "OWNER_NUMBER": {
       "description": "Owner number or sudo",
-      "value": "94789958225"
+      "value": "94764224187"
     },
     "OPENAI_API_KEY": {
       "description": "put your OPENAI api key here.Get it from beta.openai.com ",
